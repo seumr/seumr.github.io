@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://seumr.github.io/xEt/sitemap.xEt.gz
